@@ -1,0 +1,2 @@
+bin\Debug\OfficeAppManifests\ExcelWebAddInEMPManifest.xml
+C:\Users\hetulpatel\source\Project\ExcelWebAddInEMP\ExcelWebAddInEMP\bin\Debug\ExcelWebAddInEMP.debugapp

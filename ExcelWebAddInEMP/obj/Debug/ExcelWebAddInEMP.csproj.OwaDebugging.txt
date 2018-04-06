@@ -1,0 +1,7 @@
+False
+5383e903-ef72-4289-aa0a-462f8f077167df680f92-4f7e-4238-99dd-c1cdd85293ad
+{ad7ffbbd-2666-414f-84e7-edff979ce0d2}{33532a90-0d37-41ae-a9ad-2191ffdf5e29}
+{65cd16b3-73cd-40e5-94a7-5e07513e4781}
+1.0.0.0
+ExcelWebAddInEMP
+_layouts/15/

@@ -1,0 +1,2 @@
+C:\Users\hetulpatel\source\Project\ExcelWebAddInEMP\ExcelWebAddInEMP\obj\Debug\ExcelWebAddInEMP.csprojResolveAssemblyReference.cache
+C:\Users\hetulpatel\source\Project\ExcelWebAddInEMP\ExcelWebAddInEMP\obj\Debug\ExcelWebAddInEMP.csproj.CoreCompileInputs.cache
